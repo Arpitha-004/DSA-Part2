@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0104-maximum-depth-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
