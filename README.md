@@ -90,8 +90,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Arpitha-004/DSA-Part2/tree/master/0155-min-stack) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
+## Graph
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## Shortest Path
+|  |
+| ------- |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
