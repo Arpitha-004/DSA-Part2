@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/Arpitha-004/DSA-Part2/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 ## Breadth-First Search
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
