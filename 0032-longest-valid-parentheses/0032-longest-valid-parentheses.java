@@ -16,7 +16,7 @@ class Solution {
             }
         }
         l=0;r=0;
-        for(int i=s.length()-1;i>=0;i--){      //if n->0 then u may find more ()
+        for(int i=s.length()-1;i>=0;i--){      //if n->0 then u may find more (
             if(s.charAt(i)=='(')
                 l++;
             else
