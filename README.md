@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0498-diagonal-traverse](https://github.com/Arpitha-004/DSA-Part2/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
