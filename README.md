@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
+| [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Graph
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
