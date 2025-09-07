@@ -27,9 +27,9 @@ class Solution {
                 list1=list1.next;
             }
             temp.next = list2;
-            ListNode t = list1;
+            ListNode c = list1;
             list1 = list2;
-            list2 = t;
+            list2 = c;
         }
         return res;
     }
