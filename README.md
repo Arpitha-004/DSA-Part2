@@ -126,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Arpitha-004/DSA-Part2/tree/master/0038-count-and-say) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
