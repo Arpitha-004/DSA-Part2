@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Arpitha-004/DSA-Part2/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Arpitha-004/DSA-Part2/tree/master/0498-diagonal-traverse) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Design
 |  |
 | ------- |
