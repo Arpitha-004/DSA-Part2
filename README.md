@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
+| [2481-strictly-palindromic-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/2481-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
