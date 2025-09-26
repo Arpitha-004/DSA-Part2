@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Arpitha-004/DSA-Part2/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Arpitha-004/DSA-Part2/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0540-single-element-in-a-sorted-array) |
 ## Tree
 |  |
@@ -166,4 +168,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arpitha-004/DSA-Part2/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
