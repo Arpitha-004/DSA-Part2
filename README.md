@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arpitha-004/DSA-Part2/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Arpitha-004/DSA-Part2/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Arpitha-004/DSA-Part2/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Graph
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arpitha-004/DSA-Part2/tree/master/0038-count-and-say) |
+| [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
