@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Arpitha-004/DSA-Part2/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Arpitha-004/DSA-Part2/tree/master/0155-min-stack) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Greedy
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
