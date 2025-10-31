@@ -28,8 +28,7 @@ class MyQueue {
                 s1.pop();
             }
         }
-        int el = s2.peek();
-        return el;
+        return s2.peek();
     }
     
     public boolean empty() {
