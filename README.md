@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arpitha-004/DSA-Part2/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Arpitha-004/DSA-Part2/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Arpitha-004/DSA-Part2/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Arpitha-004/DSA-Part2/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Arpitha-004/DSA-Part2/tree/master/0232-implement-queue-using-stacks) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Greedy
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arpitha-004/DSA-Part2/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
