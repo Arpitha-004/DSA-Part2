@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
 ## Matrix
@@ -180,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arpitha-004/DSA-Part2/tree/master/0038-count-and-say) |
+| [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
