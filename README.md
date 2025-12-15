@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-last-stone-weight](https://github.com/Arpitha-004/DSA-Part2/tree/master/1046-last-stone-weight) |
 | [1310-watering-plants](https://github.com/Arpitha-004/DSA-Part2/tree/master/1310-watering-plants) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Arpitha-004/DSA-Part2/tree/master/1046-last-stone-weight) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
 |  |
