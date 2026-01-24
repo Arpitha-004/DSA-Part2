@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Arpitha-004/DSA-Part2/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Arpitha-004/DSA-Part2/tree/master/1046-last-stone-weight) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Arpitha-004/DSA-Part2/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -257,9 +261,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0039-combination-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
