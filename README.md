@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Arpitha-004/DSA-Part2/tree/master/0038-count-and-say) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Arpitha-004/DSA-Part2/tree/master/0686-repeated-string-match) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Arpitha-004/DSA-Part2/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
