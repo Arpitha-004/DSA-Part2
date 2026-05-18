@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arpitha-004/DSA-Part2/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Arpitha-004/DSA-Part2/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Arpitha-004/DSA-Part2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Arpitha-004/DSA-Part2/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arpitha-004/DSA-Part2/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arpitha-004/DSA-Part2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Arpitha-004/DSA-Part2/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/Arpitha-004/DSA-Part2/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Arpitha-004/DSA-Part2/tree/master/0733-flood-fill) |
 ## Simulation
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Arpitha-004/DSA-Part2/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Arpitha-004/DSA-Part2/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/Arpitha-004/DSA-Part2/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Arpitha-004/DSA-Part2/tree/master/0686-repeated-string-match) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Arpitha-004/DSA-Part2/tree/master/0079-word-search) |
 ## Bucket Sort
 |  |
 | ------- |
