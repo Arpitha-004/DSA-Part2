@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arpitha-004/DSA-Part2/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arpitha-004/DSA-Part2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Arpitha-004/DSA-Part2/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Arpitha-004/DSA-Part2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arpitha-004/DSA-Part2/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arpitha-004/DSA-Part2/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arpitha-004/DSA-Part2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arpitha-004/DSA-Part2/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpitha-004/DSA-Part2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arpitha-004/DSA-Part2/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arpitha-004/DSA-Part2/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Arpitha-004/DSA-Part2/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Arpitha-004/DSA-Part2/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Arpitha-004/DSA-Part2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Arpitha-004/DSA-Part2/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Arpitha-004/DSA-Part2/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Arpitha-004/DSA-Part2/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Arpitha-004/DSA-Part2/tree/master/0733-flood-fill) |
 ## Simulation
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Arpitha-004/DSA-Part2/tree/master/0686-repeated-string-match) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Arpitha-004/DSA-Part2/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
