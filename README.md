@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Arpitha-004/DSA-Part2/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/2481-strictly-palindromic-number) |
 ## Stack
