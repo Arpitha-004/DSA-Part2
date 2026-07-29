@@ -20,12 +20,11 @@ class Solution {
 
         char[] res = new char[n];
         int idx=0;
-        while(maj-->0){
+        while(hash[ele]-->0){
             res[idx] = (char)(ele+'a');
             idx+=2;
         }
 
-        hash[ele] = 0;
         // remaining filled in alphabetical order
         for(int i=0;i<hash.length;i++){
             while(hash[i]-->0){
