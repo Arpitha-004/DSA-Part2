@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Arpitha-004/DSA-Part2/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
 ## Matrix
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Arpitha-004/DSA-Part2/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Graph
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/Arpitha-004/DSA-Part2/tree/master/1046-last-stone-weight) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/Arpitha-004/DSA-Part2/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Arpitha-004/DSA-Part2/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Arpitha-004/DSA-Part2/tree/master/0686-repeated-string-match) |
+| [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -314,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arpitha-004/DSA-Part2/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
