@@ -12,7 +12,8 @@ class Solution {
                 }
                 l++;
             }
-            maxlen = Math.max(maxlen,r-l+1);
+            if(mpp.size()<=2)
+                maxlen = Math.max(maxlen,r-l+1);
             r++;
         }
         return maxlen;
