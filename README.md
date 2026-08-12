@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Arpitha-004/DSA-Part2/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Arpitha-004/DSA-Part2/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Arpitha-004/DSA-Part2/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Arpitha-004/DSA-Part2/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Arpitha-004/DSA-Part2/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Arpitha-004/DSA-Part2/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-last-stone-weight](https://github.com/Arpitha-004/DSA-Part2/tree/master/1046-last-stone-weight) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Arpitha-004/DSA-Part2/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arpitha-004/DSA-Part2/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Arpitha-004/DSA-Part2/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Arpitha-004/DSA-Part2/tree/master/2481-strictly-palindromic-number) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/Arpitha-004/DSA-Part2/tree/master/0881-boats-to-save-people) |
 | [2032-largest-odd-number-in-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/2032-largest-odd-number-in-string) |
 ## Graph
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Arpitha-004/DSA-Part2/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Arpitha-004/DSA-Part2/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Arpitha-004/DSA-Part2/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/Arpitha-004/DSA-Part2/tree/master/0881-boats-to-save-people) |
 ## Backtracking
 |  |
 | ------- |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Arpitha-004/DSA-Part2/tree/master/0200-number-of-islands) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Arpitha-004/DSA-Part2/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
